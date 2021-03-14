@@ -56,6 +56,8 @@ To cite the paper, please use the following:
 }
 ```
 
-## Thanks 
+## Acknowledgments
 
-We would like to thank ...
+We would like to thank Osman Mutlu and Ali Hürriyetoğlu for their implementation of GAN-BERT in Pytorch that inspired our porting. 
+You can find their initial repository at this [link](https://github.com/OsmanMutlu/Pytorch-GANBERT).
+We would like to thank Claudia Breazzano from the University of Rome, Tor Vergata, that supported this work. 
