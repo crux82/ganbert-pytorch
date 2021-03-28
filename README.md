@@ -2,7 +2,7 @@
 
 This is an implementation in Pytorch (and **HuggingFace**) of the GAN-BERT method from https://github.com/crux82/ganbert which is available in Tensorflow. While the original GAN-BERT was an extension of BERT, this implementation can be adapted to several architectures, ranging from Roberta to Albert!
 
-**IMPORTANT**: since this implementation is slightly different from the original one in Tensorflow, some results may be slightly different.
+**IMPORTANT**: Since this implementation is slightly different from the original Tensorflow one, some results may vary. Any feedback or suggestions for improving this first version would be appreciated.
 
 ## GANBERT
 
